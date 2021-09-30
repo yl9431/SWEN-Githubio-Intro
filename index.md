@@ -1,9 +1,9 @@
 ## Yi Xhan Lin
 
 ```markdown
-  Hello, I am Yi Xhan Lin. I was born and raised in Brooklyn, New York. I went to John Dewey High School, and I enjoy 
-playing video games in my free time. Even though I say that, I spend most of my time watching youtube. I also like to spend 
-time with friends doing nothing in particular.
+  Hello, I am Yi Xhan Lin. I was born and raised in Brooklyn, New York. I went to John Dewey High 
+School, and I enjoy playing video games in my free time. Even though I say that, I spend most of 
+my time watching youtube. I also like to spend time with friends doing nothing in particular.
 ``` 
   
 My favorite food:
