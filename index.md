@@ -9,7 +9,7 @@ time with friends doing nothing in particular.
 My favorite food:
 ![steak](https://iamafoodblog.b-cdn.net/wp-content/uploads/2021/02/how-to-cook-steak-1061w.jpg)
 
-I think this is the website:
+I think this is the right RIT SE website:
 [link](https://www.rit.edu/computing/department-software-engineering)
 
 Some things I would like to learn in this class are:
